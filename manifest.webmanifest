@@ -1,0 +1,17 @@
+{
+  "name": "КМ 372209 — 3D-модель конструкций шламбассейнов",
+  "short_name": "КМ 372209",
+  "description": "Интерактивная 3D-модель и проверочный расчёт ферм покрытия, колонн и надколонников здания шламбассейнов (проект 372209-КМ)",
+  "lang": "ru",
+  "start_url": "/?view=truss",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
